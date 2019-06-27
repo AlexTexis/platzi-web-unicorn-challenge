@@ -74,6 +74,7 @@ const App = () => {
        .content 
        {
          grid-area : content;
+         overflow:auto;
        }
       
        .hero

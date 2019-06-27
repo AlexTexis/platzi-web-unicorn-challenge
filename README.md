@@ -1,6 +1,6 @@
 # PREVIEW CHALLENGE
 
-![capture](./static/capture_proyect.png)
+![capture](./static/capture_proyect_edit.png)
 
 **LINK WEB**
 

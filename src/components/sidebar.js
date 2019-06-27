@@ -17,7 +17,7 @@ const Sidebar = () => {
           {
             grid-area: sidebar;
             background-color : var(--background-primary);
-            height : 500px;
+            height : auto;
             box-shadow : 3px 5px 9px -5px rgba(0,0,0,.4);
             padding : 1em;
             box-sizing: border-box;
