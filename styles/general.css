@@ -1,0 +1,13 @@
+body 
+{
+  margin : 0;
+  background-color: #F7FCFF;
+  font-family: 'Dosis', sans-serif;
+}
+
+:root 
+{
+  --background-primary : #FCFCFC;
+  --text-color : #1A1A4C;
+}
+
